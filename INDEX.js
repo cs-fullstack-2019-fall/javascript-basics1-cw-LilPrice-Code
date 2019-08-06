@@ -8,8 +8,8 @@
 
 alert("Hello World");
 var nameVariable = "John";
-console.log("Hello " + nameVariable);
+alert("Hello " + nameVariable);
 var dogAge = 4;
-console.log("Your dog is " + dogAge * 7);
+alert("Your dog is " + dogAge * 7);
 var answer = 2;
-console.log("1 + 1 = " + answer);
+alert("1 + 1 = " + answer);
